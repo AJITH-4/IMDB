@@ -1,23 +1,3 @@
--- create database guvi;
--- use guvi;
-
--- create table students (
--- id int auto_increment not null,
--- name varchar(255),
--- batch varchar(255),
--- email varchar(255),
--- mobile varchar (255)
--- );
-
--- select * from students 
-
--- insert into students (name,batch,email,mobile) values
--- ('Naga','B46WD2','naga@gmail.com','8876564323'),
--- ('Raj','B46WD2','raj12@gmail.com','9376564678'),
--- ('Ajay','B46WD2','ajay4@gmail.com','6376464456'),
--- ('Vimal','B46WD2','vimal@gmail.com','8975664654');
-
--- drop table students;- 
 
 create database IMDB;
 use imdb;
